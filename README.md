@@ -34,19 +34,20 @@ aid recognition for the low sighted and visually impaired. The braille translati
 produced using nischi's openSCAD Braille Writer library ( http://www.thingiverse.com/thing:36921 ) and jaqtikkun's openSCAD Braille numbers, 1-12 in Nemeth code with number sign ( http://www.thingiverse.com/thing:274081 )
 Folium is available from Github in addition to Thingiverse. Additionally the Tinkercad models have been made available.
 
-Github: https://github.com/tomburtonwood/folium
-Tinkercad Spine: https://www.tinkercad.com/things/bYiRizB2SV4-folium-12-page-spine
-Tinkercad Leaf: https://www.tinkercad.com/things/7ZT1JO5Ywbq-folium-decorative-leaf
-Tinkercad Page: https://www.tinkercad.com/things/kVbAkJp3SCm-folium-page
+Github: https://github.com/tomburtonwood/folium  
+Tinkercad Spine: https://www.tinkercad.com/things/bYiRizB2SV4-folium-12-page-spine  
+Tinkercad Leaf: https://www.tinkercad.com/things/7ZT1JO5Ywbq-folium-decorative-leaf  
+Tinkercad Page: https://www.tinkercad.com/things/kVbAkJp3SCm-folium-page  
+
 List of Works
 
 Relief Plaque Depicting the God Horus as a Falcon, Late Period - Ptolemaic Period
-(664-30 B.C.)
-Relief Plaque Depicting a Queen or Goddess, Ptolemaic Period (305-30 B.C.)
-Relief Panel, first century A.D.
-Buddha’s Footprints, India, Andhra Pradesh, second century
-Stamped Tile with Crouching Ascetics, fifth century
-Architectural Panel with Parrots, Indonesia, Java, ninth century
-Coronation Stone of Motecuhzoma II (Stone of the Five Suns), fifteenth century
-Plaque with Portrait of George Washington, nineteenth century
+(664-30 B.C.)  
+Relief Plaque Depicting a Queen or Goddess, Ptolemaic Period (305-30 B.C.)  
+Relief Panel, first century A.D.  
+Buddha’s Footprints, India, Andhra Pradesh, second century  
+Stamped Tile with Crouching Ascetics, fifth century  
+Architectural Panel with Parrots, Indonesia, Java, ninth century  
+Coronation Stone of Motecuhzoma II (Stone of the Five Suns), fifteenth century  
+Plaque with Portrait of George Washington, nineteenth century  
 Louis H. Sullivan, Felsenthal, Eli B., Store: Decorative Panel early twentieth century.
