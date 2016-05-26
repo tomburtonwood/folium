@@ -3,19 +3,7 @@ folium
 
 3D Printed Book of Bas Relief pieces from The Art Institute of Chicago published Sep 15, 2014
 
-
-Thing Details
-Thing Files
-Apps
-0
-Comments
-0
-Made
-42
-Collections
-0
-Remixes
-Summary
+Download and print your own copy: http://www.thingiverse.com/thing:463657
 
 3D Printed Book of Bas Relief from The Art Institute of Chicago by Tom Burtonwood.
 Folium is released under the following Creative Commons License
